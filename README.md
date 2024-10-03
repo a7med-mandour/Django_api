@@ -52,3 +52,9 @@ This endpoint allows users to add a new book to the database.
     "author": "Daniel Roy Greenfeld"
 }
 
+### Badges
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF Badge](https://img.shields.io/badge/Django%20REST%20Framework-3E8CBA?style=flat-square&logo=django&logoColor=white)
+
