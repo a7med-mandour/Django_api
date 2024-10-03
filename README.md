@@ -36,7 +36,8 @@ This endpoint retrieves all books from the database.
       }
   ]
 
-  ### 2. Add a New Book (POST `/api/add`)
+
+### 2. Add a New Book (POST `/api/add`)
 
 This endpoint allows users to add a new book to the database.
 
@@ -51,8 +52,3 @@ This endpoint allows users to add a new book to the database.
     "author": "Daniel Roy Greenfeld"
 }
 
-### Logos
-
-![Python Logo](https://www.python.org/community/logos/python-logo.png)
-![Django Logo](https://www.djangoproject.com/m/img/logos/django-logo-negative.svg)
-![DRF Logo](https://www.django-rest-framework.org/img/logo.png)
